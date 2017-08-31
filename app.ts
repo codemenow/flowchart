@@ -55,11 +55,6 @@ class App {
         this.elNamingBinding(id);
         return this;
     }
-    fillColor(id: string): any {
-        let el = $('#'+ id);
-        el.setAttribute("style", "background-color:"+color);
-        return this;
-    }
     makeDraggable(id: string): void {
         let $el = $('#'+ id);
         $el.draggable();
