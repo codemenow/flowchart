@@ -1,5 +1,5 @@
 # flowchart
-app for flowcharts. This is a coffee break project so please report any issues.
+app for flowcharts. This is a coffee break project for
 
 ## steps to run locally
 
