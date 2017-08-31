@@ -1,0 +1,29 @@
+{
+  "name": "flowchart.io",
+  "version": "1.0.0",
+  "description": "flowchart js",
+  "main": "app.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "dependencies": {
+    "less": "^2.7.2"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sreekanth67/flowchart.git"
+  },
+  "keywords": [
+    "flowchart"
+  ],
+  "author": "sreekanth boddireddy",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/sreekanth67/flowchart/issues"
+  },
+  "homepage": "https://github.com/sreekanth67/flowchart#readme"
+}
